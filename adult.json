@@ -1,7 +1,7 @@
 // 配置地址 --> clan://localhost/TVBox/adult.json
 
 {
-"spider":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/jar/myself.jar",
+"spider":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/jar/myself.jar;md5;1D82637D16010A9CF8C76F2707F59C8F",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3htLnR4dA=="]}]}],
 
 
