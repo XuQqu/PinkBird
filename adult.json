@@ -140,7 +140,7 @@
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
 ],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3htLnR4dA=="]}]}],
-"spider":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/jar/myself.jar",
+"spider":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/jar/spider2207.jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
