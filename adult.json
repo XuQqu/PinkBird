@@ -1,10 +1,6 @@
-// 配置地址 --> clan://localhost/TVBox/adult.json
+// 配置地址 --> https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/adult.json
 
 {
-"spider":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/jar/myself.jar;md5;1D82637D16010A9CF8C76F2707F59C8F",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3htLnR4dA=="]}]}],
-
-
 "sites":[
 {"key": "csp_biubiu_黄仓库","name": "黄仓库","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_黄仓库.json"},
 //{"key": "csp_biubiu_新香蕉","name": "新香蕉","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_新香蕉.json"},
@@ -97,6 +93,11 @@
 {"key":"字幕网","name":"字幕网(切)","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"利来资源","name":"利来资源(切)","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":1,"quickSearch":1}
 ],
+
+
+"spider":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/jar/myself.jar;md5;1D82637D16010A9CF8C76F2707F59C8F",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3htLnR4dA=="]}]}],
+
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
