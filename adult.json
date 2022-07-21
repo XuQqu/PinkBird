@@ -1,19 +1,19 @@
 // 配置地址 --> clan://localhost/TVBox/adult.json
 
 {
-"spider":"clan://TVBox/jar/myself.jar",
+"spider":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/jar/myself.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3htLnR4dA=="]}]}],
 
 
 "sites":[
-{"key": "csp_biubiu_黄仓库","name": "黄仓库","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "clan://TVBox/XBAdult/_黄仓库.json"},
-//{"key": "csp_biubiu_新香蕉","name": "新香蕉","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "clan://TVBox/XBAdult/_新香蕉.json"},
-{"key": "csp_biubiu_大中国","name": "大中国","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "clan://TVBox/XBAdult/_大中国.json"},
-{"key": "csp_biubiu_四虎","name": "四虎","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "clan://TVBox/XBAdult/四虎.json"},
-{"key": "csp_biubiu_5G影院","name": "5G影院","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "clan://TVBox/XBAdult/5G影院.json"},
-{"key": "csp_biubiu_xxj","name": "新香蕉","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "clan://TVBox/XPAdult/2024xxj.json"},
-//{"key": "csp_biubiu_AVTB","name": "AV淘宝","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/XBAdult/AV淘宝.json"},
-{"key": "csp_biubiu_GAOAA","name": "GAOAA(慢)","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/XBAdult/GAOAA.json"},
+{"key": "csp_biubiu_黄仓库","name": "黄仓库","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_黄仓库.json"},
+//{"key": "csp_biubiu_新香蕉","name": "新香蕉","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_新香蕉.json"},
+{"key": "csp_biubiu_大中国","name": "大中国","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_大中国.json"},
+{"key": "csp_biubiu_四虎","name": "四虎","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/四虎.json"},
+{"key": "csp_biubiu_5G影院","name": "5G影院","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/5G影院.json"},
+{"key": "csp_biubiu_xxj","name": "新香蕉","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XPAdult/2024xxj.json"},
+//{"key": "csp_biubiu_AVTB","name": "AV淘宝","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/AV淘宝.json"},
+{"key": "csp_biubiu_GAOAA","name": "GAOAA(慢)","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/GAOAA.json"},
 #切片资源
 #type=0表示xml资源,type=1表示json资源
 {"key":"鲨鱼","name":"鲨鱼(切)","type":1,"api":"https://shayuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
