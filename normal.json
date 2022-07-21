@@ -16,7 +16,6 @@
 {"key":"csp_DY1990"        ,"name":"🐞九零影视📵","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Zxzj"          ,"name":"🐞在线之家📵","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_libv"        ,"name":"🦋Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XP/libv.json"},
-{"key":"csp_xpath_zxzj2"       ,"name":"🦋在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XP/zxzj2.json"},
 {"key":"csp_xpath_lezhutv"     ,"name":"🦋乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XP/lezhutv.json"},
 {"key":"csp_xpath_ddg"         ,"name":"🦋达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XP/dadagui.json"},
 {"key":"csp_xpath_jbb"         ,"name":"🦋剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XP/jubaibai.json"},
