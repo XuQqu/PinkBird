@@ -139,7 +139,7 @@
 {"name":"CL4K01","type":0,"url":"https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","腾讯"]}},
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
 ],
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vaG91eGlhbi9qc29uL3Jhdy9icmFuY2gvbWFpbi9saXZlcy9MaXZlQWR1bHQudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vaG91eGlhbi9qc29uL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmVzL0xpdmVBZHVsdC50eHQ="]}]}],
 "spider":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/jar/myself.jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
