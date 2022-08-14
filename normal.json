@@ -543,7 +543,7 @@
 "name": "redirect",
 "urls": [
 //"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbGl1Y24vYm94L3Jhdy9icmFuY2gvbWFpbi9saXZlL20yLnR4dA=="
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vaG91eGlhbi9qc29uL3Jhdy9icmFuY2gvbWFpbi9saXZlcy9MaXZlTm9ybWFsLnR4dA=="
 ]}]}],
 "spider":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
