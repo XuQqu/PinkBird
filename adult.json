@@ -1,14 +1,14 @@
-// 配置地址 --> https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/adult.json
+// 配置地址 --> https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/adult.json
 {
 "sites": [
-{"key":"csp_biubiu_黄仓库","name": "黄仓库","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_黄仓库.json"},
-//{"key": "csp_biubiu_新香蕉","name": "新香蕉","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_新香蕉.json"},
-{"key":"csp_biubiu_大中国","name": "大中国","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/_大中国.json"},
-{"key":"csp_biubiu_四虎","name": "四虎","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/四虎.json"},
-{"key":"csp_biubiu_5G影院","name": "5G影院","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/5G影院.json"},
-{"key":"csp_biubiu_xxj","name": "新香蕉","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XPAdult/2024xxj.json"},
-//{"key": "csp_biubiu_AVTB","name": "AV淘宝","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/AV淘宝.json"},
-{"key":"csp_biubiu_GAOAA","name": "GAOAA(慢)","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/XBAdult/GAOAA.json"},
+{"key":"csp_biubiu_黄仓库","name": "黄仓库","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/XBAdult/_黄仓库.json"},
+//{"key": "csp_biubiu_新香蕉","name": "新香蕉","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/XBAdult/_新香蕉.json"},
+{"key":"csp_biubiu_大中国","name": "大中国","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/XBAdult/_大中国.json"},
+{"key":"csp_biubiu_四虎","name": "四虎","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/XBAdult/四虎.json"},
+{"key":"csp_biubiu_5G影院","name": "5G影院","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/XBAdult/5G影院.json"},
+{"key":"csp_biubiu_xxj","name": "新香蕉","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/XPAdult/2024xxj.json"},
+//{"key": "csp_biubiu_AVTB","name": "AV淘宝","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/XBAdult/AV淘宝.json"},
+{"key":"csp_biubiu_GAOAA","name": "GAOAA(慢)","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/XBAdult/GAOAA.json"},
 //切片资源
 //type=0表示xml资源,type=1表示json资源
 {"key":"鲨鱼","name":"鲨鱼(切)","type":1,"api":"https://shayuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
@@ -140,7 +140,7 @@
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
 ],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vaG91eGlhbi9qc29uL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmVzL0xpdmVBZHVsdC50eHQ="]}]}],
-"spider":"https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/jar/myself.jar",
+"spider":"https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/jar/myself.jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
